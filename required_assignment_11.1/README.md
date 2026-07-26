@@ -68,6 +68,6 @@ The dataset analysis includes four core visual outputs saved in `used_car_plots.
 
 ```text
 ├── Required_Assignment_11_1.ipynb   # Jupyter Notebook containing full CRISP-DM code and report
-├── vehicles.csv                     # Raw Kaggle used car dataset (~426K rows)
+├── vehicles.csv.gz                  # Raw Kaggle used car dataset (~426K rows). Unzip this prior to running the code
 ├── used_car_plots.png               # Summary visualizations of EDA and model performance
 └── README.md                        # Executive report and project overview

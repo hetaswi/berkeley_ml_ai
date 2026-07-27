@@ -69,4 +69,5 @@ A leak-free Pipeline was built with `scikit-learn` combining standard scaling fo
 ## Repository Structure
 ```text
 ├── CapstoneProjectIdeation.ipynb    # Main notebook
+├── train.csv                        # Housing data from https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 └── README.md                        # Submission documentation
